@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-theme-change/static/css/main.e940fa77.css",
-    "main.js": "/react-theme-change/static/js/main.effe0476.js",
-    "static/js/787.7544a979.chunk.js": "/react-theme-change/static/js/787.7544a979.chunk.js",
-    "index.html": "/react-theme-change/index.html",
-    "main.e940fa77.css.map": "/react-theme-change/static/css/main.e940fa77.css.map",
-    "main.effe0476.js.map": "/react-theme-change/static/js/main.effe0476.js.map",
-    "787.7544a979.chunk.js.map": "/react-theme-change/static/js/787.7544a979.chunk.js.map"
+    "main.css": "/theme-change-feature/static/css/main.e940fa77.css",
+    "main.js": "/theme-change-feature/static/js/main.289ceb4e.js",
+    "static/js/787.7544a979.chunk.js": "/theme-change-feature/static/js/787.7544a979.chunk.js",
+    "index.html": "/theme-change-feature/index.html",
+    "main.e940fa77.css.map": "/theme-change-feature/static/css/main.e940fa77.css.map",
+    "main.289ceb4e.js.map": "/theme-change-feature/static/js/main.289ceb4e.js.map",
+    "787.7544a979.chunk.js.map": "/theme-change-feature/static/js/787.7544a979.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e940fa77.css",
-    "static/js/main.effe0476.js"
+    "static/js/main.289ceb4e.js"
   ]
 }
